@@ -1,4 +1,4 @@
-<php>
-  <?php echo $var ?> "test";
+<?php>
+  echo  "test";
   "adding more stuff";
-</php>
+<?>
