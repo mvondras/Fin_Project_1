@@ -1,4 +1,4 @@
 <php>
-  echp "test";
+  <?php echo $var ?> "test";
   "adding more stuff";
 </php>
